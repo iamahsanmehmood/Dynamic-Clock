@@ -18,8 +18,8 @@ It uses repeating digits to create radiating lines for seconds, minutes, and hou
 ## Setup
 1. Clone the repository:
    ```bash
-1. git clone https://github.com/iamahsanmehmood/Dynamic-Clock.git
-2. Open `index.html` in your browser.
+   git clone https://github.com/iamahsanmehmood/Dynamic-Clock.git
+   Open `index.html` in your browser.
 
 ## Author
 **AHSAN MEHMOOD**  
