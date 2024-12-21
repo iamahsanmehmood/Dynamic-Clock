@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+#clock-container {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    border: 5px solid #333;
+    border-radius: 50%;
+    background-color: white;
+    overflow: hidden;
+}
+
+.digit-line {
+    position: absolute;
+    font-size: 1rem;
+    font-weight: bold;
+    transform: translate(-50%, -50%);
+    color: #333;
+}
