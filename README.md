@@ -1,7 +1,7 @@
 # 🕒 Dynamic Digital Clock
 
 A fun digital clock using **HTML**, **CSS**, and **JavaScript**. Displays seconds, minutes, and hours as radiating lines of repeating digits.
-![Clock Demo](Dynamic Clock.gif)
+![Clock Demo](https://github.com/iamahsanmehmood/Dynamic-Clock/blob/main/Dynamic%20Clock.gif)
 
 ## Features
 - **Real-Time Updates**: Seconds, minutes, and hours update dynamically.
